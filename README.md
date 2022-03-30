@@ -1,7 +1,7 @@
 # HR_Attrition_Data_Analysis
 
 ## Aim
-The main aim of this model is to discuss employee attrition prediction i.e. predicting that employee will leave the current company (or will resign from the current company) and we will do this using machine learning algorithm. 
+The main aim of this model is to discuss employee attrition prediction i.e. predicting that employee will leave the current company or will stay in the current company and we will do this using machine learning algorithm. 
 The algorithm used here is RandomForestClassifier.
 
 ## Need of Employee Attrition prediction
