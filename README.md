@@ -12,3 +12,4 @@ The algorithm used here is RandomForestClassifier.
 
 **Hiring Management:** If HR of one particular project came to know about the employee who is willing to leave the company then he/she can manage the number of hiring and they can get the valuable asset whenever they need so for the efficient flow of work.
 
+# This Project is done by - Aditya Yadav
